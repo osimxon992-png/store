@@ -1,0 +1,140 @@
+{
+  "contact": {
+    "phone": "+998 77 401 01 23",
+    "address": "Toshkent sh., Xalqlar Do'stligi tumani, Qoratosh ko'chasi, 65",
+    "hours": "Har kuni 10:00 — 22:00",
+    "instagram": "one23_uz",
+    "telegram": "one23uz",
+    "founder": "bek_vines",
+    "mapQuery": "Qoratosh ko'chasi 65, Toshkent"
+  },
+  "about": "one23 — bu kiyim emas, bu uslub. To'g'ri tanlangan kiyim, uyg'un ranglar va ishonchli qadamlar — barchasi sizning xarakteringizni ifodalaydi. Erkin siluet, minimalistik detallar va har kunga mos obrazlar.",
+  "marquee": [
+    "Kurtkalar",
+    "Keng shimlar",
+    "Trikotaj",
+    "Kostyumlar",
+    "Premium style"
+  ],
+  "hero": [
+    "/images/hero-1.jpg",
+    "/images/hero-2.jpg",
+    "/images/hero-3.jpg"
+  ],
+  "categories": [
+    {
+      "id": "kurtkalar",
+      "title": "Kurtkalar",
+      "image": "/images/cat-kurtka.jpg"
+    },
+    {
+      "id": "keng-shimlar",
+      "title": "Keng shimlar",
+      "image": "/images/cat-shim.jpg"
+    },
+    {
+      "id": "trikotaj",
+      "title": "Trikotaj",
+      "image": "/images/cat-trikotaj.jpg"
+    },
+    {
+      "id": "kostyumlar",
+      "title": "Kostyumlar",
+      "image": "/images/cat-kostyum.jpg"
+    },
+    {
+      "id": "zip-up",
+      "title": "Zip-up to'plamlar",
+      "image": "/images/cat-zip.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "zip-up-toplam",
+      "title": "Oversize zip-up to'plam",
+      "note": "Minimal dizayn, erkin bichim va maksimal qulaylik.",
+      "tag": "Yangi kolleksiya",
+      "image": "/images/p-zip.jpg",
+      "hover": "/images/p-zip-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/De1gxmqjXGH/"
+    },
+    {
+      "id": "kulrang-kurtka",
+      "title": "Kulrang kurtka",
+      "note": "Keng kurtka, bejeviy futbolka va erkin shim.",
+      "tag": "Yangi",
+      "image": "/images/p-kulrang.jpg",
+      "hover": "/images/p-kulrang-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/DfFEIYnjViv/"
+    },
+    {
+      "id": "qora-kurtka",
+      "title": "Qora kurtka va kargo shim",
+      "note": "Kuzning salqin kunlari uchun qulay va erkin obraz.",
+      "tag": "",
+      "image": "/images/p-qora.jpg",
+      "hover": "/images/p-qora-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/DfCfbDCjVZm/"
+    },
+    {
+      "id": "bordo-kurtka",
+      "title": "Bordo kurtka",
+      "note": "Bordo kurtka va keng bichimli qora shim — dadil obraz.",
+      "tag": "Hit",
+      "image": "/images/p-bordo.jpg",
+      "hover": "/images/p-bordo-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/De83PZsjRDm/"
+    },
+    {
+      "id": "kardigan",
+      "title": "Yumshoq kardigan",
+      "note": "Kardigan va keng bichimli shim — qulaylik va zamonaviylik.",
+      "tag": "",
+      "image": "/images/p-kardigan.jpg",
+      "hover": "/images/p-kardigan-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/De_6lcHjXqC/"
+    },
+    {
+      "id": "trikotaj",
+      "title": "Jigarrang trikotaj",
+      "note": "Trikotaj ustki kiyim va to'q ko'k keng shim.",
+      "tag": "",
+      "image": "/images/p-trikotaj.jpg",
+      "hover": "/images/p-trikotaj-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/De6w_9NjdZn/"
+    },
+    {
+      "id": "kulrang-komplekt",
+      "title": "To'q kulrang komplekt",
+      "note": "Ortiqcha detallarsiz ham e'tiborni tortadigan tanlov.",
+      "tag": "",
+      "image": "/images/p-komplekt.jpg",
+      "hover": "/images/p-komplekt-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/Det5JwBjf2m/"
+    },
+    {
+      "id": "jigarrang-kostyum",
+      "title": "Jigarrang kostyum",
+      "note": "Zamonaviy klassika va erkin siluet bir obrazda.",
+      "tag": "",
+      "image": "/images/p-kostyum.jpg",
+      "hover": "/images/p-kostyum-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/DemRhSgjac7/"
+    },
+    {
+      "id": "ikki-bortli-pidjak",
+      "title": "Ikki bortli pidjak",
+      "note": "Kulrang pidjak va keng shim — jiddiylik va erkinlik.",
+      "tag": "",
+      "image": "/images/p-pidjak.jpg",
+      "hover": "/images/p-pidjak-2.jpg",
+      "href": "https://www.instagram.com/one23_uz/p/DecDaJjDXYd/"
+    }
+  ],
+  "lookbook": [
+    "/images/lb-1.jpg",
+    "/images/lb-2.jpg",
+    "/images/lb-3.jpg",
+    "/images/lb-4.jpg"
+  ]
+}
